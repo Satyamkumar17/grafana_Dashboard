@@ -1,0 +1,1 @@
+GitHub datasource configuration details
