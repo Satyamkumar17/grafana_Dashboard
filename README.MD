@@ -21,3 +21,12 @@ Before you begin, ensure the following are installed on your local machine:
 | **VS Code** | Code editor | [Download VS Code](https://code.visualstudio.com/download) |
 
 | **GitHub Account** | For API access and repo data | [GitHub](https://github.com) |
+
+
+Start Grafana locally (or sign up for Grafana Cloud)
+
+brew install grafana
+brew services start grafana
+# visit http://localhost:3000 (admin/admin)
+
+
